@@ -8,7 +8,7 @@ Base URL is https://api.neogeekjr.com
 
 #### Get Current UNIX Time
 
-```http
+```https
   GET /time
 ```
 #### Example
@@ -20,7 +20,7 @@ Base URL is https://api.neogeekjr.com
 
 #### Get Random Animal Meme
 
-```http
+```https
   GET /img/<animal>
 ```
 `Options currently are possum, racoon & cat`
