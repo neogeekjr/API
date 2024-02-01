@@ -28,7 +28,7 @@ Base URL is https://api.neogeekjr.com
 
 #### Get Random Animal Meme
 
-```http
+```https
   GET /img/<animal>
 ```
 `Options currently are possum, racoon & cat`
