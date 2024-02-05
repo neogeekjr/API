@@ -16,16 +16,6 @@ Base URL is https://api.neogeekjr.com
 | :-------- | :------- | :------------------------- |
 | 200 | `json` | `time:1486013877`
 
-#### Get IP
-
-```https
-  GET /ip
-```
-#### Example
-| Response | Type | Data | 
-| :-------- | :------- | :------------------------- |
-| 200 | `json` | `ip:127.0.0.1`
-
 #### Get Random Animal Meme
 
 ```https
